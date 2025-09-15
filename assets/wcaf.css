@@ -1,0 +1,58 @@
+/* Modern styles for WP Custom Auth Form */
+#wcaf-auth-wrapper {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 400px;
+    margin: 20px auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+
+#wcaf-auth-wrapper h3 {
+    font-size: 1.5rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.wcaf-form input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 1rem;
+}
+
+.wcaf-form .wcaf-btn {
+    width: 100%;
+    padding: 10px;
+    background: #0073aa;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.wcaf-form .wcaf-btn:hover {
+    background: #005177;
+}
+
+.wcaf-switch a {
+    color: #0073aa;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.wcaf-switch a:hover {
+    color: #005177;
+}
+
+.wcaf-message {
+    font-size: 0.9rem;
+    color: #d9534f;
+    text-align: center;
+}
